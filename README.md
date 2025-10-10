@@ -7,5 +7,3 @@ Button hover/active state: opacity: 0.9
 Max width of the content: 1000px centered in the page
 
 README written by: Charles Sawe.
-# alx_html_css
- 4892a875df57157e8d7eefe55305ff2374bf42cf
