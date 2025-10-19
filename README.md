@@ -8,4 +8,4 @@ The project focuses on creating a beautiful landing page that adapts to differen
 - Button hover/active state: opacity `0.9`  
 - Max width of the content: `1000px`, centered on the page  
 
-README written by: Charles Sawe
+README written by: Charles Sawes
